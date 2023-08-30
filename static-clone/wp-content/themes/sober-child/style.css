@@ -1,0 +1,53 @@
+/*
+Theme Name: Sober Child Theme
+Theme URI: http://uix.store/sober/
+Author: UIX Themes
+Author URI: http://uix.store
+Description: Sober is a fully responsive Premium WordPress Theme with a pixel perfect design and extensive functionality
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sober
+Tags: one-column, two-columns, right-sidebar, custom-colors, custom-menu, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+Template: sober
+*/
+
+
+/*Footer Contact Info*/
+.footer-widgets-area-1 #text-6,
+.footer-widgets-area-2 #mc4wp_form_widget-2 {
+    display: none;
+}
+/*Product No 2nd Phto hover*/
+.single-product .product_meta {
+display: none;
+}
+/* Change top-bar color background*/ 
+.topbar {
+    background-color: #3b809e;
+		font-weight:200;
+}
+/*NavBar Button Orange -ultima parte no funciona-*/
+#menu-item-4509{
+	padding: 10px 20px;
+	background-color: var( --e-global-color-accent );
+	font-weight:700;
+	letter-spacing: 1.4px
+}
+#menu-item-4509:hover{
+	background-color:#3B809E;
+}
+#menu-item-4509: a{
+	color: #ffffff;
+}
+/*Add Cart Button Single Product Color */
+button.single_add_to_cart_button.button.alt:hover {
+    background-color: #3b809e;
+}
+button.single_add_to_cart_button.button.alt {
+    background-color: #CC6712;
+}
+/*Subscribe Button-Inactive(no funciona)*/
+button.mailchimp-button-block-1.button.alt {
+    background-color: #3b809e;
+}

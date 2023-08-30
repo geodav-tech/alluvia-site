@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Accessories &#8211; Alluvia Packaft</title>
+	<atom:link href="/product-category/accessories/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Small, lightweight and packable</description>
+	<lastBuildDate>Tue, 13 Sep 2022 23:03:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/07/Logo-BLKWHT-100x100.jpg</url>
+	<title>Accessories &#8211; Alluvia Packaft</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Alluvia Packraft Stickers</title>
+		<link>/shop/stickers/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=stickers</link>
+		
+		<dc:creator><![CDATA[Mike Davlantes]]></dc:creator>
+		<pubDate>Tue, 06 Jun 2017 15:26:55 +0000</pubDate>
+				<guid isPermaLink="false">https://demo.uix.store/sober-furniture/?post_type=product&#038;p=37</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>5 Panel Hat</title>
+		<link>/shop/5-panel-hat/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=5-panel-hat</link>
+		
+		<dc:creator><![CDATA[Mike Davlantes]]></dc:creator>
+		<pubDate>Tue, 06 Jun 2017 15:10:26 +0000</pubDate>
+				<guid isPermaLink="false">https://demo.uix.store/sober-furniture/?post_type=product&#038;p=30</guid>
+
+					<description><![CDATA[Our classic 5 panel hat is your go-to hat for any urban or outdoor adventure.]]></description>
+										<content:encoded><![CDATA[<p>Our classic 5 panel hat is your go-to hat for any urban or outdoor adventure. Made from a breathable material, this lightweight and packable lid features an EVA brim that allows the hat to float on water, a subtle woven patch, and an adjustable nylon strap with clip closure for easy adjustability.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

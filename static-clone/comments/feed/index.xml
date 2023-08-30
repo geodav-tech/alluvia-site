@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for Alluvia Packaft	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Small, lightweight and packable</description>
+	<lastBuildDate>Sat, 20 May 2023 13:56:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>
+		Comment on Gunny Gorge &#8211; Whitewater by Annie L.		</title>
+		<link>/shop/gunny-gorge/#comment-47</link>
+
+		<dc:creator><![CDATA[Annie L.]]></dc:creator>
+		<pubDate>Mon, 09 May 2022 21:01:20 +0000</pubDate>
+		<guid isPermaLink="false">https://demo.uix.store/sober-furniture/?post_type=product&#038;p=18#comment-47</guid>
+
+					<description><![CDATA[Handles. Waterproof skirt. I&#039;ve tried a couple different rafts and love the attention to detail in this design. When doing multi-day trips, this is my favorite option. Versatile, but really shines by keeping me drier than any other boat and the easiest to pull up onto the beach or carry down a path. This boat has all the features of other boats (t-zip, inflatable seat, etc) but while your friends might be struggling to get spray skirt tube installed you&#039;ll already be down in the river.]]></description>
+			<content:encoded><![CDATA[<p>Handles. Waterproof skirt. I&#8217;ve tried a couple different rafts and love the attention to detail in this design. When doing multi-day trips, this is my favorite option. Versatile, but really shines by keeping me drier than any other boat and the easiest to pull up onto the beach or carry down a path. This boat has all the features of other boats (t-zip, inflatable seat, etc) but while your friends might be struggling to get spray skirt tube installed you&#8217;ll already be down in the river.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
